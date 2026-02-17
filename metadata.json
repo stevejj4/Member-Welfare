@@ -1,0 +1,8 @@
+
+{
+  "name": "Shofco Member Management System",
+  "description": "A high-fidelity administrative dashboard for managing welfare members, featuring detailed profiles, dependency tracking, and financial oversight with a clean, modern UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
